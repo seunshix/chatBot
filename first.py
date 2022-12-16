@@ -25,7 +25,7 @@ print("Chatbot: ", chatbot_response(user_input))
 
 # Here is an example of a simple chatbot written in Python with the NLTK library:
 
-
+plenty plenty [ple]
 import nltk
 from nltk.chat.util import Chat, reflections
 
